@@ -7,8 +7,8 @@
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="page-heading">
-              <h1>About Me</h1>
-              <span class="subheading">This is what I do.</span>
+              <h1>关于杜振熙</h1>
+              <span class="subheading">@sofipapa.</span>
             </div>
           </div>
         </div>
@@ -19,24 +19,16 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe
-            nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis
-            sit soluta odio, adipisci quas excepturi maxime quae totam ducimus
-            consectetur?
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius
-            praesentium recusandae illo eaque architecto error, repellendus
-            iusto reprehenderit, doloribus, minus sunt. Numquam at quae
-            voluptatum in officia voluptas voluptatibus, minus!
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
-            consequuntur magnam, excepturi aliquid ex itaque esse est vero natus
-            quae optio aperiam soluta voluptatibus corporis atque iste neque sit
-            tempora!
-          </p>
+          他叫蛋堡，因为小时候疼爱他的老爸每天载他去上学的时候都会点一份麦当劳火腿蛋堡让他当早餐。备受溺爱的蛋堡据说会提着真皮公事包梳着西装头去上小学，而这位天公仔子也许预知某天会有这个需要,从孩提时代就养成练签名的习惯，每每在用餐后在点菜单背面签上”蛋堡
+          亲笔签名未来很值钱请好好收藏”的字样来自我砥砺。
+          　　然而他往后用饶舌来创作的关键，并非如国外饶舌歌手少年眼见街头火拼喋血而有所体悟。那样吴宇森式的浪漫，考上台南一中的蛋堡首次听到姚中仁先生化名热狗释出的地下DEMO之后热血不能自己，于是仿照热狗的饶舌以录音带录下了第一首饶舌作品”性欲爆炸”(此一作品目前已湮没在人世间静待有心人发掘出土)，高三那年伙同热舞社的学弟破天荒以一首饶舌歌曲School
+          Life
+          (一中生活)」拿下两校合办歌唱比赛的创作组冠军。一伙兄弟就此搞出个竹帮（Bamboo
+          Gang)此一创作力旺盛的饶舌男孩团体（后有天团energy是否参考竹帮成立就不可考究），且一直持续到大学毕业为止。然而竹帮这样规规矩矩的男孩团体并不能完全满足蛋堡天性对恶趣味的创作渴求，于是他化名为DJ
+          KUSOUL发表了一系列脍炙人口的经典饶舌歪歌「烙赛在裤底」、「史蒂芬周的饶舌battle
+          1、2
+          (周星驰RAP)」、「印度麦可上夜店」至今还许多人不明其真面目竟是蛋堡本人哩。
+          　　念视觉传达即将毕业的最后一年，他被一个念起来谐音有点尴尬的独立音乐厂牌”颜社”找来炮制其他饶舌歌手的编曲，而蛋堡私底下自己录制的作品，却意外让老板迪拉胖发现他轻柔的饶舌风格竟是如此吸引人，白描的歌词更将一个敏感神经质苍白少年所面对的都会纠结立体的勾勒出来，这样别树一致的”轻饶舌”风格随著作品的不断释出让蛋堡累积了为数不少的歌迷，而蛋堡的十几首DEMO早在海内外忠实听友间透过网络大肆流传且蔚为风行，俨然成为继热狗，大支之后最受瞩目的新生代饶舌歌手，然而不仅仅于此，从蛋堡之后，饶舌歌手的定义可能得重新改写：饶舌歌手不一定要站在街头才能咆啸传道，也可以悠闲的坐在星巴克，就着咖啡香与查特贝克记录着台北天天上演的都会传奇。
         </div>
       </div>
     </div>
@@ -45,7 +37,7 @@
 
 <script>
 export default {
-  name:'AboutPage',
+  name: "AboutPage",
   metaInfo: {
     title: "About us",
   },
